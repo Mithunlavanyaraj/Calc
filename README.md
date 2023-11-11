@@ -162,9 +162,11 @@ function calculateSquareRoot() {
 
 ## OUTPUT:
 
-![Output of calculator](image.png)
+![image](https://github.com/Mithunlavanyaraj/Calc/assets/120077786/306fbe14-3eb8-4f0c-9014-8f7ca1b463c5)
 
-![VS code output](image-1.png)
+
+![image](https://github.com/Mithunlavanyaraj/Calc/assets/120077786/1ed2c201-607f-4767-ae88-6df8919bdc7b)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
