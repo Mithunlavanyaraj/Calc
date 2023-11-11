@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#calculator-container {
+    background-color: gray;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(199, 20, 20, 0.2);
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    color: rgb(6, 96, 126); 
+}
+
+table {
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+/* Define colors for operators */
+button[data-operator="+"] {
+    background-color: black;
+}
+
+button[data-operator="-"] {
+    background-color: black;
+}
+
+button[data-operator="*"] {
+    background-color: black;
+}
+
+button[data-operator="/"] {
+    background-color: black;
+    padding: 10px 25px;
+}
+
+button[data-operator="%"] {
+    background-color: black;
+    color: aqua;
+}
+
+button[data-operator="."] {
+    background-color: black;
+    color: aqua;
+}
